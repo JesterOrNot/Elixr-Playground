@@ -1,0 +1,6 @@
+image:
+  file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - mjmcloug.vscode-elixir@1.1.0:w8GjsJyyhVFmCZmBc2Ws7A==
